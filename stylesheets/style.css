@@ -1,0 +1,23 @@
+*{
+    outline: 0px dashed green;
+}
+#main-container{
+    width: 700px;
+    height: 700px;
+    margin: auto;
+}
+    table{
+        margin: auto;
+        border: 1px solid #11ffff;
+    }
+        table thead td{
+            background-color: #9bffff;
+            text-align: center;
+        }
+        table tbody td{
+            padding: 5px 15px;
+        }
+        table tfoot td{
+            padding: 10px;
+            text-align: center;
+        }
